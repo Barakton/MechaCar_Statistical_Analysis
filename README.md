@@ -7,9 +7,9 @@ The purpose of this weeks challenge is to help solve production issues with the 
 Here are a few conclusions we can draw from the photo provided above.
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - It looks like ground clearance and vehicle length provided a non-random amount of variance.
--  Is the slope of the linear model considered to be zero? Why or why not?
+- Is the slope of the linear model considered to be zero? Why or why not?
   - The slope would actually be non-zero due to our p-value being below .05
--  Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - Only 71% of the variability using this model.
 
 ## Summary Statistics on Suspension
