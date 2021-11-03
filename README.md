@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-The purpose of this weeks challenge is to help solve production issues with the new prototype car. Below are some results of the script we created.
+The purpose of this project is to help solve production issues with the new prototype car. Below are some results of the script we created.
 
 ## Linear Regression to Predict
 ![mpgdeliv1](https://user-images.githubusercontent.com/83259639/129510697-8fa35094-1be7-4278-a4bc-70ad08c5f1b3.PNG)
